@@ -2,6 +2,10 @@
 
 A comprehensive web-based platform for medical anomaly detection that helps diagnose bone fractures and tuberculosis using machine learning.
 
+## How to Run
+
+Extract the file and then open the folder with code and go the folder CancerDetectionWeb and Run command python run.py and run it on local host.
+
 ## Project Overview
 
 HealthSync AI is an advanced medical diagnostic tool that applies AI and machine learning to help healthcare professionals and patients detect health anomalies early. The system currently focuses on two primary use cases:
